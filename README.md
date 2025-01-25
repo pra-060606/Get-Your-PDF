@@ -1,5 +1,5 @@
 # Get-Your-PDF
-# This is a repository for a chrome extension developed to print pdf of active web page.
+# This is a project developed by me, Pratham Garg, a BTech Electrical Engineering student at IIT Roorkee. The project is a Chrome extension designed to print the PDF of the active web page.
 # The description below provides a complete overview of the project and its installation process, with a demonstration video available in the "Demo Showcase" folder.
 
 Overview
