@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 250px; /* Adjusted height for vertical space */
+  width: 300px; /* Adjusted width for horizontal space */
+  margin: 0;
+  background-color: white; /* White background */
+  color: black; /* Black text */
+  border: 2px solid black; /* Black border for the box */
+  border-radius: 10px; /* Rounded corners */
+}
+
+p {
+  font-size: 24px; /* Bigger text size */
+  font-weight: bold; /* Bold text */
+  margin: 0; /* Remove margin */
+  text-align: center; /* Center the text */
+  line-height: 1.5; /* Space between lines */
+  word-break: break-word; /* Break lines if needed */
+}
+
+button {
+  margin-top: 20px; /* Add spacing above the button */
+  padding: 10px 30px; /* Adjust padding for better size */
+  font-size: 20px; /* Increased button text size */
+  font-weight: bold; /* Bold button text */
+  background-color: white; /* Button background color */
+  color: black; /* Button text color */
+  border: 2px solid black; /* Black border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+
+button:hover {
+  background-color: black; /* Change background color on hover */
+  color: white; /* Change text color on hover */
+  transform: scale(1.1); /* Slightly enlarge button on hover */
+}
